@@ -1,0 +1,2 @@
+export const IMAGES_CDN = 'https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/'
+export const IMAGES_LOGO = "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/fast-food-logo,restaurant-logo,fast-food-logo-design-template-504748a7becbf5f6d0cfcebef63ed349_screen.jpg?ts=1737612145"
